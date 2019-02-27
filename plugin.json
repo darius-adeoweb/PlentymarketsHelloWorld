@@ -1,0 +1,8 @@
+{
+  "name": "PlentymarketsHelloWorld",
+  "description": "My first plugin",
+  "namespace": "PlentymarketsHelloWorld",
+  "author": "Your name",
+  "type": "template",
+  "serviceProvider": "PlentymarketsHelloWorld\\Providers\\PlentymarketsHelloWorldServiceProvider"
+}
